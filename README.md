@@ -20,7 +20,7 @@ No dashboards. No API keys. Just drop a comment with your logo and go live.
 ```
 /launch name=YourToken symbol=TICKER
 description=Your token description here.
-twitter=https://twitter.com/yourhandle
+twitter=https://x.com/yourhandle
 telegram=https://t.me/yourgroup
 website=https://yourwebsite.com
 ```
